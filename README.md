@@ -1,5 +1,6 @@
 # Front-end em React
-## DescriçãoEsta é uma aplicação front-end para consumir uma API de gestão de contas.
+## Descrição
+  Esta é uma aplicação front-end para consumir uma API de gestão de contas.
 ## Tecnologias Utilizadas
 - React <br/>
 - Sass <br/>
